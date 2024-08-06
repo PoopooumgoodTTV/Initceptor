@@ -2,5 +2,6 @@
 
 i have no idea what this is i just stole his code bc glitchy asked how to get a github.io page?
 and i did this 
-makefile: ![](https://poopooumgoodttv.github.io/Initceptor-2/Makefile)
-(![file][https://github.com/user-attachments/assets/3b6bba20-e159-459c-8130-402f5c2e6c4a])
+makefile: ![image](https://github.com/user-attachments/assets/24a76e28-12a3-4d9f-acf8-65f1444762eb)
+(https://poopooumgoodttv.github.io/Initceptor-2/Makefile)
+
